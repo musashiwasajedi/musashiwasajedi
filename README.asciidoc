@@ -1,0 +1,13 @@
+= Awesome! 
+
+This is an +awesome+ readme!
+
+== Asciidoctor 
+
+Is a: 
+[list]
+- api
+- binary 
+- tool
+-- for docs
+-- and fun!
