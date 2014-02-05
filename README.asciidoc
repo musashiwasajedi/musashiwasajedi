@@ -11,3 +11,5 @@ asdfasdf
 image::http://asciidoctor.org/images/octocat.jpg[GitHub mascot]
 
 include::http://www.pubnub.com/docs/sdk/common/seo.ad[]
+
+video::80530258[vimeo, 500, 400]
