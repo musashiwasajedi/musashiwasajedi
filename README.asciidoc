@@ -9,3 +9,5 @@ ya really oughta see'um
 asdfasdf
 
 image::http://asciidoctor.org/images/octocat.jpg[GitHub mascot]
+
+include::http://www.pubnub.com/docs/sdk/common/seo.ad[]
