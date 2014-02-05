@@ -7,3 +7,5 @@ ya really oughta see'um
 === Petit
 
 asdfasdf
+
+image::http://asciidoctor.org/images/octocat.jpg[GitHub mascot]
